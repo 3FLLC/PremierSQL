@@ -20,14 +20,14 @@ In Whitelist folder, you need to make 3 lined text files using the clients IP ad
 ![whitelist_example](https://user-images.githubusercontent.com/13199666/134448332-18541ad2-344c-43ac-8ef1-05a065203d63.png)
 
 The content of the files is as follows:
-LINE1: USER ID
-LINE2: PASSWORD
-LINE3: DESCRIPTION
+* LINE1: USER ID
+* LINE2: PASSWORD
+* LINE3: DESCRIPTION
 
 So, initially if you have the server and client installed on the same machine, you want to make a 127.0.0.1 file.
 With the contents:
-OZZ NIXON
-PASSWORD
-LOCALHOST CLIENT
+* OZZ NIXON
+* PASSWORD
+* LOCALHOST CLIENT
 
 __Please Note__ Pressing ANY KEY while the PSQLMWS.EXE window has focus, is processed as a request to shutdown ASAP.
