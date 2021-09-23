@@ -30,4 +30,15 @@ With the contents:
 * PASSWORD
 * LOCALHOST CLIENT
 
+![psqlmws_console_screen](https://user-images.githubusercontent.com/13199666/134449512-1be50992-336a-453d-bce2-058294cc3d13.png)
+
+
 __Please Note__ Pressing ANY KEY while the PSQLMWS.EXE window has focus, is processed as a request to shutdown ASAP.
+
+MacOS Screenshot of client:
+
+![Screen_Shot_2021-09-22_at_12 01 28_AM](https://user-images.githubusercontent.com/13199666/134449851-a2d8a052-b867-44fc-85e9-506c4333cb3d.png)
+
+Windows Screenshot of client:
+
+![Capture_Windows_Screenshot](https://user-images.githubusercontent.com/13199666/134449951-cdba580a-edfd-4ab2-a769-8617f2e07a9f.png)
